@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @chenjiayao
+- 👀 I’m trying to be a creator
+- 🌱 I’m currently learning swift and kotlin 
