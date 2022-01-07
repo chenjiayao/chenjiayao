@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @chenjiayao
-- 🌱 I’m currently learning swift and kotlin 
+- 🌱 I’m currently learning Golang and kotlin 
